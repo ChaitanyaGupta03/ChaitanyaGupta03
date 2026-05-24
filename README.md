@@ -1,5 +1,5 @@
 # 💫 About Me:
-FULL stack developer | app bulider 
+FULL stack developer 
 
 
 ## 🌐 Socials:
